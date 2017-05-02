@@ -2,5 +2,5 @@
 
 Windows batch utilities
 
-[TCLCL](.src/tclcl.bat) - wrapper for compiling
+[TCLCL](src/tclcl.bat) - wrapper for compiling
 tcl/tk scripts into executable files (needs tcl "kits")
