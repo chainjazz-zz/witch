@@ -1,2 +1,0 @@
-# witch
-Windows batch utilities
